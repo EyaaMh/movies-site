@@ -1,0 +1,13 @@
+.movie-groupe{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.movie-groupe img{
+    width: 300px;
+    height: 400px;
+}
